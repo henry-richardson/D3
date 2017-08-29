@@ -1,7 +1,22 @@
-### Github Tutorial
+# Welcome to SlickGrid
 
-####1. [How to Host Files on Github](http://www.labnol.org/internet/free-file-hosting-github/29092/)
+Find documentation and examples in [the wiki](https://github.com/mleibman/SlickGrid/wiki).
 
-####2. [Github Gists for Non-Developers](http://www.labnol.org/internet/github-gist-tutorial/28499/)
+## SlickGrid is an advanced JavaScript grid/spreadsheet component
 
-Append ?raw=true to any file URL on Github to get the direct link.
+Some highlights:
+
+* Adaptive virtual scrolling (handle hundreds of thousands of rows with extreme responsiveness)
+* Extremely fast rendering speed
+* Supports jQuery UI Themes
+* Background post-rendering for richer cells
+* Configurable & customizable
+* Full keyboard navigation
+* Column resize/reorder/show/hide
+* Column autosizing & force-fit
+* Pluggable cell formatters & editors
+* Support for editing and creating new rows.
+* Grouping, filtering, custom aggregators, and more!
+* Advanced detached & multi-field editors with undo/redo support.
+* “GlobalEditorLock” to manage concurrent edits in cases where multiple Views on a page can edit the same data.
+* Support for [millions of rows](http://stackoverflow.com/a/2569488/1269037)
